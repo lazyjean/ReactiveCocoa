@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "ReactiveCocoa"
+  s.name         = "ReactiveCocoa-Swift"
   s.version      = "7.1.0"
   s.summary      = "Streams of values over time"
   s.description  = <<-DESC
